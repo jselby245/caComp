@@ -1,4 +1,4 @@
-# Task 1 for OCR GCSE Computing A453
+# Task 1
 # Josh Selby 2016
 
 # Asks user for a sentence:
